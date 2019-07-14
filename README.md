@@ -1,1 +1,1 @@
-JavaScript를 공부해보자
+Web을 공부해보자
