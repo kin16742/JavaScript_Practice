@@ -1,1 +1,1 @@
-JavaScript °øºÎÇØº¸ÀÚ
+JavaScriptë¥¼ ê³µë¶€í•´ë³´ì~~
